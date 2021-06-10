@@ -1,2 +1,2 @@
-# GIS-Research
-Research into applying the power of machine learning and GIS to environmental interests.
+# GIS
+Projects created during Masters degree in GIS.
